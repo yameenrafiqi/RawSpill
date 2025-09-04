@@ -23,7 +23,7 @@ This is what our generation needs to understand. Guidance from our close ones do
     category: 'Self-Help',
     type: 'article',
     trending: true
-  }
+  },
   {
     id: ‘2’,
     title: 'When Silence Becomes a Friend
